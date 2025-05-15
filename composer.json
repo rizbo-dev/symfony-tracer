@@ -1,0 +1,16 @@
+{
+    "name": "rizbo/symfony-tracer",
+    "description": "Symfony bundle that traces request and log actions for tracing",
+    "type": "library",
+    "autoload": {
+        "psr-4": {
+            "Rizbo\\SymfonyTracer\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "Boris Evetovic"
+        }
+    ],
+    "require": {}
+}
