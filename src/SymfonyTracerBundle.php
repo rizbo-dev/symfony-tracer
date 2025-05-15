@@ -18,9 +18,4 @@ class SymfonyTracerBundle extends AbstractBundle
     {
         dump($config);
     }
-
-    public function getPath(): string
-    {
-        return dirname(__DIR__);
-    }
 }
